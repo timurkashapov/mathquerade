@@ -1,2 +1,2 @@
 # mathquerade
-![cover](docs/mathquerade.jpg)
+![cover](docs/mathquerade_25%.jpg)
