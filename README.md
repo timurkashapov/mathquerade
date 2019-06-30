@@ -1,2 +1,2 @@
 # mathquerade
-[cover](docs/mathquerade.jpg)
+img[cover](docs/mathquerade.jpg)
